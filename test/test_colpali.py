@@ -24,5 +24,6 @@ processor = ColQwen2_5_Processor.from_pretrained(local_model_path, local_files_o
 
 print("✅ 模型加载成功！")
 print("✅ 模型加载成功！")
+print("✅ 模型加载成功3！")
 print(f"使用设备: {device}")
 print(f"模型路径: {local_model_path}")
